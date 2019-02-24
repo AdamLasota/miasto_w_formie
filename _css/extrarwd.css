@@ -1,0 +1,81 @@
+@media screen and (min-width: 992px) and (max-width: 1200px){
+	
+.title_first_boxes {
+	font-size:18px;
+	line-heigh:10px;
+}
+.discription_box_2_line_title{
+	height:50%;
+	position:absolute;
+	top:50%;
+}
+.event_box:hover .box_discription p { 
+	opacity:1;
+	line-height:15px;
+	font-size: 1.3vw;
+	transition:0.3s;
+}
+.box_discription_2_line_title{
+	margin-top:8%;
+}
+
+.special_box1{
+	height:11rem; 
+	
+}
+.tipp_discription p{
+	font-size: 1.4rem;
+	line-height: 94%;
+	margin-bottom:0;
+}
+.icons{
+	margin-left:6%;
+}
+.tipp_discription{
+	width:90%;
+	margin-top:8%;
+}
+.special_discription{
+	width:98%;
+	margin-bottom:4px;
+}
+.special_discription p{
+	line-height:110%;
+	font-size:1.4vw;
+	margin-top:0%;
+	margin-bottom:0;
+}
+.marks{
+	position:absolute;
+	top:79%;
+	left:35%;
+}
+.mail_form{
+	width:98%;
+}
+.discription_box_search{
+	top:20%;
+	height:80%;
+}
+.title_container{
+	padding-left:13px;
+	width:99%;
+	font-size:20px;
+}
+.event_box:hover .title_container_search {
+  margin-top:123px;
+}
+}
+@media screen and (min-width:992px) and (max-width:1165px){
+
+.footer_center_ico ul {
+	padding-left:0;
+	margin-top:63px;
+}
+}
+@media screen and (min-width:1441px){
+
+.event_box:hover .box_discription p { 
+	font-size: 0.8vw;
+}
+}
